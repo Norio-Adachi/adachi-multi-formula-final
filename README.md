@@ -1,1 +1,9 @@
-# adachi-multi-formula-final
+安達マルチ公式：理論と開発物語
+本リポジトリは、安達則男による円周率計算公式の研究資料および開発物語をまとめた公式アーカイブです。
+
+公開資料
+VERSION_ALPHA.md: 開発初期の理論的アプローチと基礎研究
+
+VERSION_OMEGA.md: 研究の完成形および理論の集大成
+
+本資料は、数学的探究の記録として公開いたします。# adachi-multi-formula-final
